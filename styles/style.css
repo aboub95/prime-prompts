@@ -1,4 +1,192 @@
-header{
-    background-color: red;
-    justify-content: center;
+*{
+    margin: 0;
+    padding: 0;
 }
+body{
+    height: 1117px;
+    width: 100%;
+    background-color: white;
+}
+.navbar{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(247, 248, 244);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.logo-container{
+    height: 41px;
+    width: 30%;
+    align-items: center;
+    background-color: rgb(77, 80, 77);
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 30px;
+    width: 30%;
+    align-items: center;
+    background-color: rgb(79, 177, 235); 
+}
+
+.site-name{
+    height: 20px;
+    width: 30%;
+    align-items: center;
+    background-color: rgb(79, 177, 235); 
+    align-items: center;
+}
+
+.navButton{
+    height: 41px;
+    width: 30%;
+    background-color: rgb(77, 80, 77);;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.connexion{
+    height: 20px;
+    width: 30%;
+    align-items: center;
+    background-color: rgb(247, 241, 245); 
+    align-items: center;
+}
+.cta{
+    height: 25px;
+    width: 30%;
+    align-items: center;
+    background-color: rgb(15, 15, 15); 
+    
+}
+
+.mainMenu{
+    height: 238px;
+    width: 492px;
+    background-color: #1d04042c;
+    margin: 143px auto;
+    
+
+}
+
+.textG{
+    height: 92px;
+    width: 100%;
+    background-color: rgb(185, 16, 16); 
+    margin-bottom: 25px;
+   
+}
+
+.textF{
+    height: 53px;
+    width: 100%;
+    background-color: rgb(51, 207, 59); 
+    
+}
+
+.boutonCTA{
+    height: 43px;
+    width: 212px;
+    background-color: rgb(65, 15, 131);
+    margin-top: 25px;
+    margin-left: 138px;
+    
+}
+
+.boiteG{
+    height: 182px;
+    width: 1124px;
+    background-color: #a39393;
+    justify-content: center;
+    margin: 161px auto;
+    display: flex;
+   
+    
+}
+
+.boiteE1{
+    height: 182px;
+    width: 360px;
+    background-color: #d474747e;
+}
+
+.boiteE1logo{
+    height: 56px;
+    width: 66px;
+    background-color: #df7575;
+    margin-left: 0px;
+}
+
+.boiteE1Tx{
+    height: 76px;
+    width: 254px;
+    background-color: #c51616;
+    margin-left: 0px;
+    margin-top: 16px;
+}
+
+.boiteE2{
+    height: 182px;
+    width: 360px;
+    background-color: #ebd50e;
+    margin-left: 22px;
+    margin-right: 22px;
+}
+
+.boiteE2logo{
+    height: 56px;
+    width: 66px;
+    background-color: #df7575;
+    margin-left: 0px;
+}
+
+.boiteE2Tx{
+    height: 76px;
+    width: 254px;
+    background-color: #c51616;
+    margin-left: 0px;
+    margin-top: 16px;
+}
+
+.boiteE3{
+    height: 182px;
+    width: 360px;
+    background-color: #179107;
+    margin-right: 0px;
+}
+
+.boiteE3logo{
+    height: 56px;
+    width: 66px;
+    background-color: #df7575;
+    margin-left: 0px;
+}
+
+.boiteE3Tx{
+    height: 76px;
+    width: 254px;
+    background-color: #c51616;
+    margin-left: 0px;
+    margin-top: 16px;
+}
+
+.footerP{
+    height: 151px;
+    width: 100%;
+    background-color: rgb(44, 17, 17);
+    margin-right: 16px;
+    align-items: center; 
+}
+
+.footertext1{
+    height: 40px;
+    width: 628px;
+    background-color: #c51616;
+    
+}
+
+    
