@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('global.css');
+
+@import url('section/header.css');
+@import url('section/main.css');
+@import url('section/footer.css');
+
+:root{
+    --roboto: "Roboto", sans-serif;
+      --white-colo: 255, 255, 255 ; 
+    --primary-color: 0, 0, 0;
+    --secondary-color: 255, 255, 255, 255;
+
+    --bleu-color: 0 0 255 ;
+    --red-color: 227, 7, 68;
+    --yellow-color: 255, 210, 0;
+    --green-color: 0,128,0
+
+    --headline-font-size: 42px; /* taille du titre*/
+    --headline-font-weight: 700; /* poid du titre*/
+
+    --subheadline-font-size: 22px;/* taille du sous-titre*/
+    --subheadline-font-weight: 400;/* poid du sous-titre*/
+    
+    --body-font-size: 18px;/*texte du cops de la page*/
+
+}
